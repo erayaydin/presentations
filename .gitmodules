@@ -1,0 +1,7 @@
+[submodule "Projects/RegEx"]
+	path = Projects/RegEx
+	url = git@github.com:erayaydin/presentation-regex.git
+[submodule "Libraries/RevealJS"]
+	path = Libraries/RevealJS
+	url = git@github.com:hakimel/reveal.js.git
+	branch = master
